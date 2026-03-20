@@ -1,2 +1,3 @@
-# fast-content-cms-6uev
+# Fast Content Cms 6Uev
+
 A repository to test GitHub automation for issue management.
